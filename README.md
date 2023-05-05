@@ -1,6 +1,6 @@
 # Booking App - MERN
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Webfre/Booking/blob/main/client/src/assets/photo_2023-05-05_10-08-22.jpg)" alt="webfre" /> </p>
+<p align="left"> <img src="https://github.com/Webfre/Booking/blob/main/client/src/assets/photo_2023-05-05_10-08-22.jpg" alt="webfre" /> </p>
 
 - Single-page application;
 - Responsive and fully adaptive;
