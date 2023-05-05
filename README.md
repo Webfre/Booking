@@ -6,13 +6,11 @@
 - Responsive and fully adaptive;
 
 ```sh
-git clone https://github.com/Webfre/profile.git
+git clone https://github.com/Webfre/Booking.git
 ```
 
 Start the project:
 
 ```sh
-npm install
-cd my-portfolio
-npm start or yarn start
+yarn run dev
 ```
